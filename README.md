@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @jackyuan1
-- 👀 I’m interested in learning how to code
-- 🌱 I’m currently learning HTML/CSS/JS
-- 💞️ I’m looking to collaborate on beginner-friendly projects
+- 👀 I’m interested in building and improving applications!
 - 📫 How to reach me: message me!
 
 <!---
