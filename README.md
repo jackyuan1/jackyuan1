@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackyuan1
-- 👀 I’m interested in building and improving applications!
+- 👀 I’m interested in building!
 - 📫 How to reach me: message me!
 
 <!---
